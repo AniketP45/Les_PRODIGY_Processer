@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<APPSETTINGS>
+    <PROCESSOR_NAME>PRODIGY</PROCESSOR_NAME>
+    <DOMAIN>https://vendor-portal.prodigymarinesolutions.com/en/quote-requests</DOMAIN>
+	<DOMAINNAME>https://vendor-portal.prodigymarinesolutions.com/</DOMAINNAME>
+    <LOGINURL>https://vendor-portal-api.prodigymarinesolutions.com/api/login</LOGINURL>
+	<USERNAME>4613-SINW</USERNAME>
+    <PASSWORD>SINWA-SG</PASSWORD>
+    <SERVER>SERVER 123</SERVER>
+    <BUYERCODE>RapaxTech111</BUYERCODE>
+    <SUPPLIERCODE>SSPL</SUPPLIERCODE>
+    <BUYERSUPPLIERLINKCODE>1234</BUYERSUPPLIERLINKCODE>
+    <BUYERSUPPLIERLINKID>5678</BUYERSUPPLIERLINKID>
+    <BUYERNAME>RapexTech</BUYERNAME>
+	<SUPPLIERNAME>Sinwa Singapore Pte Ltd</SUPPLIERNAME>
+    <LINK_INBOX_PATH>D:\Kalpita\Work\LeS\Projects\JUNIOR_DEVS\Shubham\RapexTech\RapexTech\RapexTech\bin\Debug\MAILTEXT</LINK_INBOX_PATH>
+    <AUDITPATH></AUDITPATH>
+    <ACTIONS>RFQ</ACTIONS>
+	<ENCYRPTURL>eur01.safelinks.protection.outlook.com</ENCYRPTURL>
+	<OUTBOX_PATH>D:\Kalpita\Work\LeS\Projects\JUNIOR_DEVS\Shubham\RapexTech\RapexTech\RapexTech\bin\Debug\Quote</OUTBOX_PATH>  
+	<SAVE_QUOTE>FALSE</SAVE_QUOTE>
+    <SUBMIT_QUOTE>FAlSE</SUBMIT_QUOTE>
+</APPSETTINGS>
+
+<!--<APPSETTINGS>
+    <PROCESSOR_NAME>LeS_RapexTech_Processor</PROCESSOR_NAME>
+    <DOMAIN>https://rapax.tech/</DOMAIN>
+  <DOMAINNAME>https://rapax.tech/Istoresvpupdate.aspx</DOMAINNAME>
+    <USERNAME>sinwa@sinwaglobal.com</USERNAME>
+    <PASSWORD>V9SMZC7J</PASSWORD>
+    <SERVER>Sinwa_82</SERVER>
+    <BUYERCODE>SM4053</BUYERCODE>
+    <SUPPLIERCODE>V00006</SUPPLIERCODE>
+    <BUYERSUPPLIERLINKCODE>SM4053_WEB</BUYERSUPPLIERLINKCODE>
+    <BUYERSUPPLIERLINKID>94000353</BUYERSUPPLIERLINKID>
+    <BUYERNAME>CLAN SHIPMANAGEMENT LTD</BUYERNAME>
+   <SUPPLIERNAME>Sinwa Singapore Pte Ltd</SUPPLIERNAME>
+    <LINK_INBOX_PATH>D:\Kalpita\Work\LeS\Projects\JUNIOR_DEVS\Shubham\RapexTech\RapexTech\RapexTech\bin\Debug\MAILTEXT</LINK_INBOX_PATH>
+    <AUDITPATH>D:\LeS\Sync_Files\To_Server\eSupplier_Audit\</AUDITPATH>
+    <ACTIONS>RFQ</ACTIONS>
+  <ENCYRPTURL>smex12-5-en-ctp.trendmicro.com:443</ENCYRPTURL>
+<OUTBOX_PATH>D:\LeS\Sync_Files\From_Server\RAPAX_WEB\OUTBOX</OUTBOX_PATH>  
+	<SAVE_QUOTE>FALSE</SAVE_QUOTE>
+    <SUBMIT_QUOTE>FAlSE</SUBMIT_QUOTE>
+</APPSETTINGS>-->

@@ -1,0 +1,12 @@
+C:\2-NP\Les_PRODIGY_Processer\PRODIGY_Routine\obj\Debug\PRODIGY_Routine.csproj.AssemblyReference.cache
+C:\2-NP\Les_PRODIGY_Processer\PRODIGY_Routine\obj\Debug\PRODIGY_Routine.csproj.CoreCompileInputs.cache
+C:\2-NP\Les_PRODIGY_Processer\PRODIGY_Routine\bin\Debug\PRODIGY_Routine.dll.config
+C:\2-NP\Les_PRODIGY_Processer\PRODIGY_Routine\bin\Debug\PRODIGY_Routine.dll
+C:\2-NP\Les_PRODIGY_Processer\PRODIGY_Routine\bin\Debug\PRODIGY_Routine.pdb
+C:\2-NP\Les_PRODIGY_Processer\PRODIGY_Routine\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\2-NP\Les_PRODIGY_Processer\PRODIGY_Routine\bin\Debug\HTTPMethods.pdb
+C:\2-NP\Les_PRODIGY_Processer\PRODIGY_Routine\bin\Debug\HTTPWrapper.pdb
+C:\2-NP\Les_PRODIGY_Processer\PRODIGY_Routine\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\2-NP\Les_PRODIGY_Processer\PRODIGY_Routine\obj\Debug\PRODIGY_Routine.csproj.CopyComplete
+C:\2-NP\Les_PRODIGY_Processer\PRODIGY_Routine\obj\Debug\PRODIGY_Routine.dll
+C:\2-NP\Les_PRODIGY_Processer\PRODIGY_Routine\obj\Debug\PRODIGY_Routine.pdb
